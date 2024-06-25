@@ -1,0 +1,14 @@
+[
+  {
+    "carId": "01CR",
+    "customerId": "01CT",
+    "rentalDate": "2024-07-01",
+    "returnDate": "2024-07-10"
+  },
+  {
+    "carId": "02CR",
+    "customerId": "01CT",
+    "rentalDate": "2024-07-01",
+    "returnDate": "2024-07-10"
+  }
+]

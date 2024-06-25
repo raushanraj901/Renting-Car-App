@@ -1,0 +1,14 @@
+[
+  {
+    "id": "01CR",
+    "make": "abc",
+    "model": "car1",
+    "isRented": true
+  },
+  {
+    "id": "02CR",
+    "make": "rent",
+    "model": "CAR2",
+    "isRented": false
+  }
+]
